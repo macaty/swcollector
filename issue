@@ -1,0 +1,4 @@
+[work@localhost octopux-swcollector]$ ./control build
+main.go:8:2: cannot find package "github.com/baishancloud/goperfcounter" in any of:
+        /home/work/go/src/github.com/baishancloud/goperfcounter (from $GOROOT)
+        /home/work/workspace/src/github.com/baishancloud/goperfcounter (from $GOPATH)
